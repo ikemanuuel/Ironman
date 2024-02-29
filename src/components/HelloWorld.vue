@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br />
+      For a guide and recipes on how to cook a coke,<br />
       Ey yow wazup bitches
     </p>
     <h3>CAll ME WHEN YOU NEED ME</h3>
